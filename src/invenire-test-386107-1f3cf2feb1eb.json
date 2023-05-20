@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "invenire-test-386107",
+  "private_key_id": "1f3cf2feb1ebc24d744bbf14df34b57465ee9fbe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/vbxqsU8LD9eJ\n5jjPrpqaIXTGG8O6PEz+8TPR4rbJqejraDZZ1sSacsuTh7HC4+1PdG3awFivJ10n\nAFS/8p2tla5l2VHc3LI4w6vmIiHayj4VMWbAceCPwReQqA6mbEM8WxdZvm95ziu0\nv5zmUAVBJqdN493RMb/vFlBBspVuvPYDV2XknuojPS5V/uhnMJtyVrba+uEXpiWu\nUFXu6x92kJpvyvoFbYFTiOjg6/gWU0mFXiRWLKicktIwhzFVRjtdaG2vn/fU48jE\nYLzqBy9OQ/esACxBz8nuc7WoWh0oHQAWhwQSGTjE3WMPFqCBNlzLoWmDwF70NNyi\nDyou0PUBAgMBAAECggEAL6M5vT5JN6Pbdqjqw3qLcbDPPOsoAUy7Cnot2D8eD9N1\niYsuObrYxNCxkHldqmCLlLqGEpvITNgYVjjIVZo3H6n5Ftfb9WYlp2HCAx7Gz3+A\n1i4ca8K/OqgMLUX7wdBTEhtFnWfpdVdKV5Flr3kBHTM3zOvIsBFOsN2X2gK/CrBc\nsdiSm7ulKhEvoD5wasxLc8mBtslalnWljwUTs82C2ckp3RGy/7PhIBJLrMMfa6Tp\ndvFkrS7J1EyltR+QweQuq562lijKlYYOVnOPFbJSD1jwPS7Via5V9y46BcTUEtUT\nBvlcA+jpoibSQpe/FncYSbVQuPL2+lv3yy8E8vJBawKBgQDnpiMAGW/ekk8riprj\nlbhVq7BGawevSa6cL5xFmVmaarT3OdXqr33cIjqTCAE5ThH0YDTVO59uOYY9SNrW\n9CZNYkhpgB3693xm2YnjbRnc8x5O8jYVRwmTDSwc0SjlrLZxTJuoOO/eI6TFWVMk\nbQzyt+rhiI11Rs4Cke5PzmIhnwKBgQDT5aW3sdna3towlkuNXxYE84PBbTiYX2E3\nBTzib0FnX5xoVacTYsB1CyQf6yh79zh8rnGZReATu2TIwtTVDdoa/08eDw0AW68Y\nM+cjLMSStIdrbBSOMcf1DtMPNO56RK0tWTEIY7lk5T6trW4+KyEb5IE/wZjPkrS6\n9jJ5y2WlXwKBgG55jiGi//YewsEaNiopoiLBYa0DqEORmUOFdTrAGrqI/0sUew+U\nqCqO7G5ol+TTdb6dDzVOXQd9Sab6ktuGzqmDINOntSSWWO7X+mnLA1WbYK3315Eo\nMsm9s3b+zUlTqCK6jVWZ6dOAHjm8EunBVDaBPfRXYlc28FLLc+L9o1EzAoGAEKAW\nDoGfzDJsAB/qsZ7iRWUt00FUjW/+WqjIjCOaiBfSV8VQpI689vH21aJHvOI6xl2R\ngCshV6r+T1oqBMVfdXrOpFcd+Ac5h7aazgG3MqODdIQ4YKe7Ppj5KlpG08ULqWE0\nHaplY2sxLcNLwQj1QhD9qxjvemnSUFD8yN2SjhUCgYAPWXjPHpf4NRKHqCITgm6i\n6EFSGkqQO9XdBk1fBOPN5bvlTu/thuKxeRezSMX98mTNdCXLVhMP3/pAMy2Jbk4f\n9WeYQGzjgfQpUEnjMxxHm6rl11/Le7Qd6EK3R29w3m4/T+LXXf5YjkiaYGtOQmsp\n2pq0Aordvd4S+7MAw3XZ9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "invenire-ivan@invenire-test-386107.iam.gserviceaccount.com",
+  "client_id": "115548075249700221441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/invenire-ivan%40invenire-test-386107.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
